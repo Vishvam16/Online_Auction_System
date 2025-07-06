@@ -1,0 +1,6 @@
+Nand,15,male,India
+Poojan,23,male,UK
+Vishvam,20,male,India
+Het,18,male,Norway
+Jash,99,female,USA
+Amit shah,100,male,Canada
